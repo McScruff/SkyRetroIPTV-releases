@@ -1,6 +1,1 @@
-{
-  "version_code": 5,
-  "version_name": "1.4",
-  "download_url": "https://github.com/McScruff/SkyRetroIPTV-releases/releases/download/v1.4/SkyRetro-v1.4.apk",
-  "release_notes": "Radio, Teletext, Category Editor, 6 Themes, per-sport news ticker"
-}
+{"version_code":6,"version_name":"1.5","download_url":"https://github.com/McScruff/SkyRetroIPTV-releases/releases/download/v1.5/app-release.apk","release_notes":"Emby support, category management, auto-update fix, catchup TV, colour themes, sports ticker, teletext news reader, radio section"}
